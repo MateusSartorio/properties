@@ -1,5 +1,5 @@
 # properties
-A simple web page that displays properties, made with TypeScript.
+A simple web page that displays properties' reviews, made with TypeScript.
 
 ![image](https://user-images.githubusercontent.com/69646100/156906226-d1075460-7c6c-41b7-a7c2-b3390fa11032.png)
 
